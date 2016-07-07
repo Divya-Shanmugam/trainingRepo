@@ -7,9 +7,12 @@ public class ProductApp {
 		// TODO Auto-generated method stub
 
 
+		System.out.println("Divi");
 		for(int i=0;i<arr.length;i++)
 		{
 			System.out.println("Data:");
+			
+			System.out.println("Divi Ca");
 		}
 	}
 
